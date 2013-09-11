@@ -1,5 +1,8 @@
 *.py[cod]
 
+*.autosave
+*.user
+
 # C extensions
 *.so
 
