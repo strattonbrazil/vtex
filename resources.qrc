@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="vtex.jpg">images/vtex.jpg</file>
+    </qresource>
+</RCC>
